@@ -22,7 +22,7 @@ const konten = [
 
     {
         foto: "assets/5.jpg",
-        ucapan: "sekali lagi selamat ulang tahun, cintaku. semoga hari ini dipenuhi kebahagiaan dan doa-doa baik dari orang-orang yang menyayangimu. terima kasih sudah hadir dalam hidup saya dan menjadi bagian penting dalam setiap cerita saya. semoga kita bisa terus bersama dan menciptakan lebih banyak kenangan indah di masa depan. love you 🫶🏻🤍✨"
+        ucapan: "sekali lagi selamat ulang tahun, cintaku. semoga hari ini dipenuhi kebahagiaan dan doa-doa baik dari orang-orang yang menyayangimu. terima kasih sudah hadir dalam hidup saya dan menjadi bagian penting dalam setiap cerita saya. semoga kita bisa terus bersama dan menciptakan lebih banyak kenangan indah di masa depan. love you🫶🏻🤍✨"
     }
 
 ];
