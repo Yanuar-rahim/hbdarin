@@ -110,7 +110,7 @@ function tampilAkhir() {
 
 <div class="love-screen">
 
-<div class="big-love">I LOVE YOU 💗</div>
+<div class="big-love">I LOVE YOU</div>
 
 <div class="sub-love">💗💗Dari pacarmu(Yanuar)💗💗</div>
 
